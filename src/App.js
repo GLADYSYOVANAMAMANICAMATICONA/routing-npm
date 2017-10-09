@@ -41,36 +41,36 @@ const Teachers = (props) => {
       <ul className="row">
         <h2>Teachers</h2>
         <li className="col-sm-6">
-          <img className="imgProfesore" src="img/angie.png" alt="" />
+          <img className="imgProfesore" src="http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4/img/angie.png" alt="" />
           <h3>Angie McAngular</h3>
           <p>Angie is a web developer and teacher who is passionate about building scalable, data driven web apps, especially ones that address old problems
           with new tech!</p>
         </li>
         <li className="col-sm-6">
-          <img className="imgProfesore" src="img/nodes.png" alt="" />
+          <img className="imgProfesore" src="http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4/img/nodestradamus.png" alt="" />
           <h3>NodeStradamus</h3>
           <p>'NodeStra' is a software engineer and philosopher trying to leave the world better than he found it. He codes for non-profits, eCommerce,
                and large-scale web apps.</p>
         </li>
         <li className="col-sm-6">
-          <img className="imgProfesore" src="img/geo.png" alt="" />
+          <img className="imgProfesore" src="http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4/img/geo.png" alt="" />
           <h3>Geo 'Lo' Cation</h3>
           <p>Geo is a JavaScript developer working on large-scale applications. He's also a teacher who strives to support students in removing all
                barriers to learning code.</p>
         </li>
         <li className="col-sm-6">
-          <img className="imgProfesore" src="img/ecma.png" alt="" />
+          <img className="imgProfesore" src="http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4/img/ecma.png" alt="" />
           <h3>Ecma Scriptnstuff</h3>
           <p>Ecma found her passion for computers and programming over 15 years ago. She is excited to introduce people to the wonderful world of
                 JavaScript.</p>
         </li>
         <li className="col-sm-6">
-          <img className="imgProfesore" src="img/jay.png" alt="" />
+          <img className="imgProfesore" src="http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4/img/jay.png" alt="" />
           <h3>Jay Query</h3>
           <p>Jay is a developer, author of CSS: The Missing Manual, JavaScript & jQuery: The Missing Manual, and web development teacher.</p>
         </li>
         <li className="col-sm-6">
-          <img className="imgProfesore" src="img/json.png" alt="" />
+          <img className="imgProfesore" src="http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4/img/json.png" alt="" />
           <h3>Json Babel</h3>
           <p>All of his professional life, Json has worked with computers online; he is a polyglot programmer and likes using the right tools for the job.</p>
         </li>
@@ -84,7 +84,7 @@ const HTML = () => {
       <ul>
         <li className="row">
           <div className="col-sm-4 col-md-4">
-            <img className="imgProfesore" src="../img/html1.png" alt="" />
+            <img className="imgProfesore" src="https://achievement-images.teamtreehouse.com/bagdes_html_howtobuildawebsite_stage02.png" alt="" />
           </div>
           <div className="col-sm-8 col-md-8">
             <h3>How to Make a Website</h3>
@@ -93,7 +93,7 @@ const HTML = () => {
         </li>
         <li className="row">
           <div className="col-sm-4 col-md-4">
-            <img className="imgProfesore" src="../img/html2.png" alt="" />
+            <img className="imgProfesore" src="https://achievement-images.teamtreehouse.com/badges_html_forms_stage1.png" alt="" />
           </div>
           <div className="col-sm-8 col-md-8">
             <h3>Angie McAngular</h3>
@@ -102,7 +102,7 @@ const HTML = () => {
         </li>
         <li className="row">
           <div className="col-sm-4 col-md-4">
-            <img className="imgProfesore" src="../img/html3.png" alt="" />
+            <img className="imgProfesore" src="https://achievement-images.teamtreehouse.com/badges-html-videoaudio-stage1.png" alt="" />
           </div>
           <div className="col-sm-8 col-md-8">
             <h3>Angie McAngular</h3>
@@ -120,7 +120,7 @@ const CSS = () => {
           <div className="col-sm-4 col-md-4">
             <img
               className="imgProfesore"
-              src="../img/css1.png"
+              src="https://achievement-images.teamtreehouse.com/badges_css_basics_stage6.png"
               alt />
           </div>
           <div className="col-sm-8 col-md-8">
@@ -136,7 +136,7 @@ const CSS = () => {
           <div className="col-sm-4 col-md-4">
             <img
               className="imgProfesore"
-              src="../img/css2.png"
+              src="https://achievement-images.teamtreehouse.com/badges_css_selectors_stage01.png"
               alt />
           </div>
           <div className="col-sm-8 col-md-8">
@@ -153,7 +153,7 @@ const CSS = () => {
           <div className="col-sm-4 col-md-4">
             <img
               className="imgProfesore"
-              src="../img/css3.png"
+              src="https://achievement-images.teamtreehouse.com/badges-CSS-ResponsiveLayouts-stage3.png"
               alt />
           </div>
           <div className="col-sm-8 col-md-8">
@@ -178,7 +178,7 @@ const JavaScript = () => {
           <div className="col-sm-4 col-md-4">
             <img
               className="imgProfesore"
-              src="../img/js1.png"
+              src="https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage1.png"
               alt />
           </div>
           <div className="col-sm-8 col-md-8">
@@ -194,7 +194,7 @@ const JavaScript = () => {
           <div className="col-sm-4 col-md-4">
             <img
               className="imgProfesore"
-              src="../img/js2.png"
+              src="https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage5.png"
               alt />
           </div>
           <div className="col-sm-8 col-md-8">
@@ -210,7 +210,7 @@ const JavaScript = () => {
           <div className="col-sm-4 col-md-4">
             <img
               className="imgProfesore"
-              src="../img/js3.png"
+              src="https://achievement-images.teamtreehouse.com/badges_JavaScript_jQueryBasics_Stage1.png"
               alt />
           </div>
           <div className="col-sm-8  col-md-8">
